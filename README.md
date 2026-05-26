@@ -9,3 +9,6 @@ Graceful degradation and service workers are related because service workers are
 
 ### App Screenshot
 ![Lab 8 App Screenshot](pwa.png)
+
+### Link
+[Page's Link](https://aidanrik.github.io/Lab8_Starter/)
